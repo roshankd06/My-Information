@@ -1,0 +1,142 @@
+body {
+    margin:0px;
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 20px;
+    margin: auto;
+}
+
+h1{
+    
+    font-family: 'Pacifico', cursive;
+    margin: 50px auto 0 auto;
+    font-size: 3.75rem;
+    color:#66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Pacifico', cursive;
+    font-size: 2.5rem;
+    color:#66BFBF;
+}
+
+h3 {
+    font-family: 'Satisfy', cursive;
+    font-size: 25px;
+    color:#11999E;
+}
+
+#top-container {
+    background-color: #EDFFEC;
+   position: relative;
+   padding-top: 100px;
+}
+
+.bottom-cloud {
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position:absolute;
+    right: 400px;
+    top: 50px;
+}
+
+.code-image {
+    width: 25%;
+    float:left;
+    margin-right: 40px;
+    border-radius: 30%;
+}
+
+hr {
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    height:1px;
+    width:5%;
+    border-color:grey;
+    border-width: 5px;
+}
+
+.web-image {
+    width: 30%;
+    float:right;
+    margin-right: 30px;
+    border-radius: 30%;
+}
+
+.hobby-image {
+    width: 25%;
+    float:left;
+    margin-right: 30px;
+    border-radius: 30%;
+}
+
+.my {
+    width: 200px;
+    height: 200px;
+    margin-right: 30px;
+    border-radius: 50%;
+}
+
+a {
+    color:#1452da;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#eaf6ea;
+}
+
+.btn {
+    background: #4399f5;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 15px;
+    font-weight: normal;
+    padding:5px;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn:hover {
+    color:#337FED;
+}
+
+.profile {
+    margin:auto;
+    width:50%;
+}
+
+#pro {
+    font-weight: normal;
+    
+}
+
+.skill-row {
+    width:60%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.middle-container {
+    line-height: 1;
+}
+
+.bottom-container {
+    display:block;
+    background-color: #66bfbf;
+    padding:50px 0px 20px 0px;
+}
+
+
